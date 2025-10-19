@@ -1,4 +1,8 @@
 
-const logIn=()=>{
-    return true;
+const logIn=(username)=>{
+    if(username=="ali"){
+        return true;
+    }else{
+        return false;
+    }
 };
