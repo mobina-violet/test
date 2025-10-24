@@ -1,0 +1,17 @@
+{
+  "name": "commit",
+  "version": "1.0.0",
+  "description": "WDSFZJIHGFCDXSADFGHUJIOPIUYTREWAQSDFGTYUIOPIUYTREWDSRGTFYUIOP[INDEX](https://www.google.com/search?q=html5&rlz=1C1GCEA_enIR1116IR1116&oq=&gs_lcrp=EgZjaHJvbWUqGAgAEAAYQhiRAhi0AhjqAhiABBiMBBiKBTIYCAAQABhCGJECGLQCGOoCGIAEGIwEGIoFMhgIARAAGEIYkQIYtAIY6gIYgAQYjAQYigUyGAgCEAAYQhiRAhi0AhjqAhiABBiMBBiKBTIYCAMQABhCGJECGLQCGOoCGIAEGIwEGIoFMhgIBBAAGEIYkQIYtAIY6gIYgAQYjAQYigUyGAgFEAAYQhiRAhi0AhjqAhiABBiMBBiKBTIGCAYQRRhA0gEKMTMwOTg1ajBqOagCBrACAfEFSh9QRP3sT1I&sourceid=chrome&ie=UTF-8)\r ______________",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "tailwind": "npx @tailwindcss/cli -i ./tailwind.css -o ./main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  }
+}
